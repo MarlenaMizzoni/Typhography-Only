@@ -1,10 +1,8 @@
-# Web Starter
+# Typography Only for Flamenco
 
-> Computers are dumb. Humans make them smart.
+A web project to expirement with CSS typography.
 
-Starter (boilerplate) for all future projects.
-
-## Why Does This Exist?
-* Don't start with nothing
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+## CSS Concepts 
+*Typography
+*Box Model
+* CSS Variables
